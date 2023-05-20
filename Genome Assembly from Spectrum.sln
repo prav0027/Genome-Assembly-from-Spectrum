@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Genome Assembly from Spectrum", "Genome Assembly from Spectrum\Genome Assembly from Spectrum.pyproj", "{BB55E72C-C106-42CD-8362-BA96329B91AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB55E72C-C106-42CD-8362-BA96329B91AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB55E72C-C106-42CD-8362-BA96329B91AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E9F250C-0DE8-49F3-94DA-91E50AD5EB56}
+	EndGlobalSection
+EndGlobal
